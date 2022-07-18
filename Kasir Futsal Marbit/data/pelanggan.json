@@ -1,0 +1,104 @@
+[
+  {
+    "nama": "aku",
+    "panggilan": "a",
+    "tipe": "reguler",
+    "jumlah_pemesanan": 0
+  },
+  {
+    "nama": "ayam murni",
+    "panggilan": "ayam",
+    "tipe": "member",
+    "jumlah_pemesanan": 7
+  },
+  {
+    "nama": "an",
+    "panggilan": "aq",
+    "tipe": "reguler",
+    "jumlah_pemesanan": 1
+  },
+  {
+    "nama": "ayam goreng",
+    "panggilan": "goreng",
+    "tipe": "reguler",
+    "jumlah_pemesanan": 1
+  },
+  {
+    "nama": "Marcel makan ayam",
+    "panggilan": "makan",
+    "tipe": "reguler",
+    "jumlah_pemesanan": 1
+  },
+  {
+    "nama": "Mario Teguh",
+    "panggilan": "Teguh",
+    "tipe": "reguler",
+    "jumlah_pemesanan": 1
+  },
+  {
+    "nama": "Marcel Sintia Bela",
+    "panggilan": "marce",
+    "tipe": "reguler",
+    "jumlah_pemesanan": 1
+  },
+  {
+    "nama": "n",
+    "panggilan": "n",
+    "tipe": "reguler",
+    "jumlah_pemesanan": 0
+  },
+  {
+    "nama": "Marcel Sintia Bela",
+    "panggilan": "sby",
+    "tipe": "reguler",
+    "jumlah_pemesanan": 3
+  },
+  {
+    "nama": "Marcel Shintia Bella",
+    "panggilan": "mrcl",
+    "tipe": "member",
+    "jumlah_pemesanan": 1
+  },
+  {
+    "nama": "jualan1",
+    "panggilan": "andi",
+    "tipe": "reguler",
+    "jumlah_pemesanan": 1
+  },
+  {
+    "nama": "budi",
+    "panggilan": "budi",
+    "tipe": "reguler",
+    "jumlah_pemesanan": 1
+  },
+  {
+    "nama": "rudi",
+    "panggilan": "rudi",
+    "tipe": "reguler",
+    "jumlah_pemesanan": 1
+  },
+  {
+    "nama": "Marcel Shintia Bela",
+    "panggilan": "marcel",
+    "tipe": "reguler",
+    "jumlah_pemesanan": 1
+  },
+  {
+    "nama": "Muhammad Robitul Anam",
+    "panggilan": "robit",
+    "tipe": "member",
+    "jumlah_pemesanan": 1
+  },
+  {
+    "nama": "Muhammad Robitul Anam",
+    "panggilan": "robitu",
+    "tipe": "reguler",
+    "jumlah_pemesanan": 1
+  },
+  {
+    "nama": "Muhammad Robitul Anam",
+    "panggilan": "Anam",
+    "tipe": "member",
+    "jumlah_pemesanan": 1
+  }
+]

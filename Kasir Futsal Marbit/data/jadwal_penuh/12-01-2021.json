@@ -1,0 +1,32 @@
+[
+  {
+    "nama": "ayam murni",
+    "panggilan": "ayam",
+    "tipe": "reguler",
+    "pukul": 21,
+    "lama": 1,
+    "tanggal": 1,
+    "bulan": 12,
+    "lapangan": "Windah Basaudara"
+  },
+  {
+    "nama": "Marcel Sintia Bela",
+    "panggilan": "sby",
+    "tipe": "reguler",
+    "pukul": 9,
+    "lama": 2,
+    "tanggal": 1,
+    "bulan": 12,
+    "lapangan": "Windah Basaudara"
+  },
+  {
+    "nama": "Marcel Sintia Bela",
+    "panggilan": "sby",
+    "tipe": "reguler",
+    "pukul": 11,
+    "lama": 2,
+    "tanggal": 1,
+    "bulan": 12,
+    "lapangan": "Cherrybale"
+  }
+]

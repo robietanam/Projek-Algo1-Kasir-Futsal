@@ -1,0 +1,62 @@
+[
+  {
+    "nama": "jualan1",
+    "panggilan": "andi",
+    "tipe": "reguler",
+    "pukul": 9,
+    "lama": 2,
+    "tanggal": 14,
+    "bulan": 12,
+    "lapangan": "Windah Basaudara"
+  },
+  {
+    "nama": "budi",
+    "panggilan": "budi",
+    "tipe": "reguler",
+    "pukul": 12,
+    "lama": 3,
+    "tanggal": 14,
+    "bulan": 12,
+    "lapangan": "Cherrybale"
+  },
+  {
+    "nama": "rudi",
+    "panggilan": "rudi",
+    "tipe": "reguler",
+    "pukul": 10,
+    "lama": 3,
+    "tanggal": 14,
+    "bulan": 12,
+    "lapangan": "SMASH"
+  },
+  {
+    "nama": "siapa",
+    "panggilan": "marcel",
+    "tipe": "reguler",
+    "pukul": 15,
+    "lama": 2,
+    "tanggal": 14,
+    "bulan": 12,
+    "lapangan": "Blackpink"
+  },
+  {
+    "nama": "Muhammad Robitul Anam",
+    "panggilan": "robitu",
+    "tipe": "reguler",
+    "pukul": 17,
+    "lama": 3,
+    "tanggal": 14,
+    "bulan": 12,
+    "lapangan": "Windah Basaudara"
+  },
+  {
+    "nama": "Muhammad Robitul Anam",
+    "panggilan": "Anam",
+    "tipe": "reguler",
+    "pukul": 17,
+    "lama": 2,
+    "tanggal": 14,
+    "bulan": 12,
+    "lapangan": "Cherrybale"
+  }
+]

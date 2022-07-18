@@ -1,0 +1,132 @@
+[
+  {
+    "nama": "ayam murni",
+    "panggilan": "ayam",
+    "tipe": "member",
+    "pukul": 9,
+    "lama": 2,
+    "tanggal": 12,
+    "bulan": 12,
+    "lapangan": "Windah Basaudara"
+  },
+  {
+    "nama": "ayam murni",
+    "panggilan": "ayam",
+    "tipe": "reguler",
+    "pukul": 11,
+    "lama": 3,
+    "tanggal": 12,
+    "bulan": 12,
+    "lapangan": "Windah Basaudara"
+  },
+  {
+    "nama": "ayam murni",
+    "panggilan": "ayam",
+    "tipe": "reguler",
+    "pukul": 14,
+    "lama": 3,
+    "tanggal": 12,
+    "bulan": 12,
+    "lapangan": "Windah Basaudara"
+  },
+  {
+    "nama": "ayam murni",
+    "panggilan": "ayam",
+    "tipe": "reguler",
+    "pukul": 17,
+    "lama": 2,
+    "tanggal": 12,
+    "bulan": 12,
+    "lapangan": "Windah Basaudara"
+  },
+  {
+    "nama": "ayam murni",
+    "panggilan": "ayam",
+    "tipe": "reguler",
+    "pukul": 21,
+    "lama": 1,
+    "tanggal": 12,
+    "bulan": 12,
+    "lapangan": "Windah Basaudara"
+  },
+  {
+    "nama": "an",
+    "panggilan": "aq",
+    "tipe": "reguler",
+    "pukul": 19,
+    "lama": 2,
+    "tanggal": 12,
+    "bulan": 12,
+    "lapangan": "Windah Basaudara"
+  },
+  {
+    "nama": "ayam murni",
+    "panggilan": "ayam",
+    "tipe": "reguler",
+    "pukul": 9,
+    "lama": 2,
+    "tanggal": 12,
+    "bulan": 12,
+    "lapangan": "Cherrybale"
+  },
+  {
+    "nama": "ayam murni",
+    "panggilan": "ayam",
+    "tipe": "reguler",
+    "pukul": 12,
+    "lama": 3,
+    "tanggal": 12,
+    "bulan": 12,
+    "lapangan": "Cherrybale"
+  },
+  {
+    "nama": "Marcel makan ayam",
+    "panggilan": "makan",
+    "tipe": "reguler",
+    "pukul": 10,
+    "lama": 1,
+    "tanggal": 12,
+    "bulan": 12,
+    "lapangan": "Blackpink"
+  },
+  {
+    "nama": "Mario Teguh",
+    "panggilan": "Teguh",
+    "tipe": "reguler",
+    "pukul": 10,
+    "lama": 1,
+    "tanggal": 12,
+    "bulan": 12,
+    "lapangan": "Windah Basaudara(WB)"
+  },
+  {
+    "nama": "Marcel Sintia Bela",
+    "panggilan": "marce",
+    "tipe": "reguler",
+    "pukul": 10,
+    "lama": 2,
+    "tanggal": 12,
+    "bulan": 12,
+    "lapangan": "SMASH"
+  },
+  {
+    "nama": "Marcel Sintia Bela",
+    "panggilan": "sby",
+    "tipe": "reguler",
+    "pukul": 12,
+    "lama": 1,
+    "tanggal": 12,
+    "bulan": 12,
+    "lapangan": "SMASH"
+  },
+  {
+    "nama": "Marcel Shintia Bella",
+    "panggilan": "mrcl",
+    "tipe": "reguler",
+    "pukul": 12,
+    "lama": 2,
+    "tanggal": 12,
+    "bulan": 12,
+    "lapangan": "Blackpink"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "nama": "ayam murni",
+    "panggilan": "ayam",
+    "order": "2021-12-07",
+    "total_bayar": 230000,
+    "tipe": "reguler"
+  },
+  {
+    "nama": "ayam murni",
+    "panggilan": "ayam",
+    "order": "2021-12-07",
+    "total_bayar": 230000,
+    "tipe": "reguler"
+  },
+  {
+    "nama": "ayam murni",
+    "panggilan": "ayam",
+    "order": "2021-12-07",
+    "total_bayar": 150000,
+    "tipe": "reguler"
+  },
+  {
+    "nama": "ayam murni",
+    "panggilan": "ayam",
+    "order": "2021-12-07",
+    "total_bayar": 70000,
+    "tipe": "reguler"
+  },
+  {
+    "nama": "ayam murni",
+    "panggilan": "ayam",
+    "order": "2021-12-07",
+    "total_bayar": 70000,
+    "tipe": "reguler"
+  },
+  {
+    "nama": "an",
+    "panggilan": "aq",
+    "order": "2021-12-07",
+    "total_bayar": 160000,
+    "tipe": "reguler"
+  },
+  {
+    "nama": "ayam murni",
+    "panggilan": "ayam",
+    "order": "2021-12-07",
+    "total_bayar": 160000,
+    "tipe": "reguler"
+  }
+]

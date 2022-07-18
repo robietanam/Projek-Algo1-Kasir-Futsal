@@ -1,0 +1,53 @@
+[
+  {
+    "nama": "Marcel Shintia Bella",
+    "panggilan": "mrcl",
+    "order": "2021-12-12",
+    "total_bayar": 160000,
+    "tipe": "reguler"
+  },
+  {
+    "nama": "Marcel Shintia Bella",
+    "panggilan": "mrcl",
+    "order": "2021-12-12",
+    "total_bayar": 50000,
+    "tipe": "member",
+    "transaksi": "beli_member"
+  },
+  {
+    "nama": "jualan1",
+    "panggilan": "andi",
+    "order": "2021-12-12",
+    "total_bayar": 160000,
+    "tipe": "reguler"
+  },
+  {
+    "nama": "budi",
+    "panggilan": "budi",
+    "order": "2021-12-12",
+    "total_bayar": 240000,
+    "tipe": "reguler"
+  },
+  {
+    "nama": "rudi",
+    "panggilan": "rudi",
+    "order": "2021-12-12",
+    "total_bayar": 240000,
+    "tipe": "reguler"
+  },
+  {
+    "nama": "siapa",
+    "panggilan": "marcel",
+    "order": "2021-12-12",
+    "total_bayar": 160000,
+    "tipe": "reguler"
+  },
+  {
+    "nama": "Marcel Shintia Bela",
+    "panggilan": "marcel",
+    "order": "2021-12-12",
+    "total_bayar": 50000,
+    "tipe": "member",
+    "transaksi": "beli_member"
+  }
+]

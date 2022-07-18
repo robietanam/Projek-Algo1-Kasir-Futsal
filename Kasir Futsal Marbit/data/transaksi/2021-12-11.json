@@ -1,0 +1,37 @@
+[
+  {
+    "nama": "Mario Teguh",
+    "panggilan": "Teguh",
+    "order": "2021-12-11",
+    "total_bayar": 80000,
+    "tipe": "reguler"
+  },
+  {
+    "nama": "Marcel Sintia Bela",
+    "panggilan": "marce",
+    "order": "2021-12-11",
+    "total_bayar": 160000,
+    "tipe": "reguler"
+  },
+  {
+    "nama": "Marcel Sintia Bela",
+    "panggilan": "sby",
+    "order": "2021-12-11",
+    "total_bayar": 80000,
+    "tipe": "reguler"
+  },
+  {
+    "nama": "Marcel Sintia Bela",
+    "panggilan": "sby",
+    "order": "2021-12-11",
+    "total_bayar": 160000,
+    "tipe": "reguler"
+  },
+  {
+    "nama": "Marcel Sintia Bela",
+    "panggilan": "sby",
+    "order": "2021-12-11",
+    "total_bayar": 160000,
+    "tipe": "reguler"
+  }
+]

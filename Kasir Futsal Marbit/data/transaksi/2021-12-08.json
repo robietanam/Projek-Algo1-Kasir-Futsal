@@ -1,0 +1,17 @@
+[
+  {
+    "nama": "ayam murni",
+    "panggilan": "ayam",
+    "order": "2021-12-08",
+    "total_bayar": 240000,
+    "tipe": "reguler"
+  },
+  {
+    "nama": "ayam murni",
+    "panggilan": "ayam",
+    "order": "2021-12-08",
+    "total_bayar": 50000,
+    "tipe": "reguler",
+    "transaksi": "beli_member"
+  }
+]

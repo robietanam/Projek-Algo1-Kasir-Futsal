@@ -1,0 +1,16 @@
+[
+  {
+    "nama": "aku siapa",
+    "username": "admin",
+    "password": "123",
+    "status": "admin",
+    "pembelian": 8,
+    "spassword": "123"
+  },
+  {
+    "username": "test",
+    "password": "123",
+    "status": "admin",
+    "pembelian": 0
+  }
+]
